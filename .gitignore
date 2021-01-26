@@ -1,5 +1,6 @@
-i.idea/
+.DS_Store
+.idea/
 *pyc
-docs/build
-
+docs/build/
+docs/.DS_Store
 

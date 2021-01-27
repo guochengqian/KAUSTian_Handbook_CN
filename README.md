@@ -25,7 +25,7 @@
 
 详细步骤：
 1. fork这个仓库(repo)。 
-2. 修改你fork的repo。如何修改？例如想添加驾校信息，可以编辑'docs/content/life/drive.rst'；想添加全新的小节，例如在生活篇中加入 '美食'节（假如没有这个小节），可以在'docs/content/life'中假如新的'food.rst'文件，并添加相应内容。可参考'drive.rst'进行编辑。  
+2. 修改你fork的repo。如何修改？例如想添加驾校信息，可以编辑'docs/content/life/drive.rst'；想添加全新的小节，例如在生活篇中加入 '美食'节（假如没有这个小节），可以在'docs/content/life'中新建'food.rst'文件，并添加相应内容。可参考'drive.rst'进行编辑。  
 3. 在本仓库中请求一个[pull request](https://github.com/guochengqian/KAUSTian_Handbook_CN/pulls). 
 4. 审核通过后，您的内容将出现在本文档中。
 

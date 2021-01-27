@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'KAUST_Handbook_CN'
+project = 'KAUSTian_Handbook_CN'
 copyright = '2021, Guocheng Qian'
 author = 'Guocheng Qian'
 

@@ -21,6 +21,14 @@ KAUST生存手册
 .. toctree::
    :glob:
    :maxdepth: 1
+   :caption: 旅游篇
+
+   content/travel/saudi
+
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
    :caption: 财务篇
 
    content/finance/tranfer_sar2rmb

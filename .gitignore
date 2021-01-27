@@ -1,5 +1,6 @@
 .DS_Store
 .idea/
+.vscode/
 *pyc
 docs/build/
 docs/.DS_Store

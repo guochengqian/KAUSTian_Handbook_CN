@@ -1,11 +1,17 @@
 :github_url: https://github.com/guochengqian/KAUSTian_Handbook_CN
 
-转账回国
+
+转账相关
 ========
+
+
+转账回国
+--------
+
 最常用的转账回国方式有三种：SABB Mobile上自助转账，SAMBA 柜台人工协助转账，STC Pay移动端自助转账。 
 
 SABB 转账
----------
+^^^^^^^^^
 
 步骤：
 

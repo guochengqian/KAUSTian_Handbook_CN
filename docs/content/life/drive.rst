@@ -1,20 +1,25 @@
 :github_url: https://github.com/guochengqian/KAUSTian_Handbook_CN
 
+驾照相关
+========
+
+
 驾校
-======
+------
 
 选项：
+
 1. 拉比格
 2. 吉达
 
 
 驾照
-======
+------
 
 新人学车
--------
+^^^^^^^^
 
-步骤：   
+步骤：
 
 1. Book an appointment through `KAUST self service <https://ga.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>`_。 打印两张表格（是阿拉伯语）。 
 2. 注册第一次路考， 在学车之前需要先路考一次，来决定学习的时常（通常是5天）。 注册方法, `登录MOI网站 <https://www.moi.gov.sa/wps/portal>`_： 点击more -> traffic， 打印注册文件。 
@@ -27,8 +32,8 @@
 9. 不能现场取驾照，下午一点取。可以让学校GA帮忙取。把盖好章的学车单带到GA，告诉前台，前台会复印你的iqama，收下你的单子帮你取。
 Note: 沙特驾照属于国际驾照，所以建议申请10年的，这样去欧洲旅游的时候可以用沙特驾照租车。  
 
-有国内换驾照
---------
+换驾照
+^^^^^^^^^^^
 
 步骤：
 

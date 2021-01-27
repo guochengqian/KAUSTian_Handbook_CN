@@ -31,7 +31,7 @@ KAUST生存手册
    :maxdepth: 1
    :caption: 财务篇
 
-   content/finance/tranfer_sar2rmb
+   content/finance/money_transfer
    content/finance/investment
 
 

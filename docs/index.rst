@@ -18,6 +18,7 @@ KAUST生存手册
 
    content/life/drive
    content/life/run
+   content/life/ticket
    
 .. toctree::
    :glob:

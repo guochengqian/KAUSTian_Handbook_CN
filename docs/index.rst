@@ -17,7 +17,8 @@ KAUST生存手册
    :caption: 生活篇
 
    content/life/drive
-
+   content/life/run
+   
 .. toctree::
    :glob:
    :maxdepth: 1

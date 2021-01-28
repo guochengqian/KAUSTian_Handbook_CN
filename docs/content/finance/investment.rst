@@ -49,7 +49,10 @@ www.sugarforex.com/securities/tdameritrade-open-account.html
 
 http://www.sugarforex.com/securities/td-deposit.html
 
-入金目前只能通过银行电汇的方法， 而且好像是不能用第三方平台的，所以什么西联汇款，stc pay这些就不用想了。
+note:
+
+  * 入金目前只能通过银行电汇的方法， 而且好像是不能用第三方平台的，所以什么西联汇款，stc pay这些就不用想了。
+  * 所有的投资包括港股A股，都只能同名账户间转账。
 
 这里电汇也可以参考转账那一部分，按照网站或者券商的指示填写好beneficiary就可以了。一般两个工作日到账。
 

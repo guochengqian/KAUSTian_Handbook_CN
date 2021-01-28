@@ -7,12 +7,13 @@
 跑步场地
 -------
 
-1.harbor sports center的健身房
-2.island recreation center的健身房
-3.campus club的健身房（diner旁边）
-4.harbor sports center旁边的操场
-5.北沙滩的夜灯小路
-6.校园里
+1. harbor sports center的健身房
+2. island recreation center的健身房
+3. campus club的健身房（diner旁边）
+4. harbor sports center旁边的操场
+5. 北沙滩的夜灯小路
+6. 校园里
+
 
 Note:
 关于1-3:
@@ -32,3 +33,4 @@ Note:
 ---------------
 App市场提供了非常多的跑步app，如悦跑圈、nike sports club等，平日可以帮助你记录跑步数据，同时它们经常举办线上马拉松或限时挑战活动，这些都可以督促和鼓励你跑起来。
 线下的跑友很难找，因为大家跑步的习惯、速度都不一样。如果你能找到，你们可以很开心地鼓励对方坚持下去。夜跑时有个伴也会相对安全一些。
+

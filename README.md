@@ -3,6 +3,9 @@
 
 网页同步版本网址：[KAUST生存手册](https://kaustian-handbook-cn.readthedocs.io/en/latest/)
 
+![KAUST生存手册网页](static/image/website.png)
+
+
 ## 说明
 本文档用reST语言撰写, 并支持Sphinx同步渲染。 
 

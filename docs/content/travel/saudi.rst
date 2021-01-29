@@ -15,6 +15,11 @@ KAUST 美景
 
 KAUST的存在就是一个世外桃源，有很多娱乐设施值得推荐的
 
+地标
+^^^
+
+.. image:: label.jpg
+
 
 潜水
 ^^^^^^
@@ -104,6 +109,14 @@ Taif  景点
 .. image:: light.jpg
 
 .. image:: people.jpg
+
+
+火山坑  景点
+-------------
+
+中途停下来的时候，猴子会跳上车来 和你示好
+
+.. image:: monkey.jpg
 
 
 

@@ -28,7 +28,7 @@ snorkeling是非去不可的了，潜入红海，看珊瑚并和小鱼比谁游�
 另外平时运气好，或者住的宿舍靠海比较近
 出去散个步也能亲近自然
 
-.. image:: big fish.jpg
+.. image:: big_fish.jpg
 
 
 国王之眼看日出
@@ -38,6 +38,6 @@ snorkeling是非去不可的了，潜入红海，看珊瑚并和小鱼比谁游�
 可以在Facebook KAUST committee淘一个二手自行车三百沙到五百沙不等
 
 
-.. image:: big fish.jpg
+.. image:: sunrise.jpg
 
 

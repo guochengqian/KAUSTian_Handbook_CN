@@ -1,7 +1,7 @@
 :github_url: https://github.com/guochengqian/KAUSTian_Handbook_CN
 
 
-买机票
+机票
 ======
 
 沙特航空

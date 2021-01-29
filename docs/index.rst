@@ -16,7 +16,9 @@ KAUST生存手册
    :maxdepth: 1
    :caption: 生活篇
 
+
    content/life/drive
+   content/life/shopping
    content/life/run
    content/life/ticket
    

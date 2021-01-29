@@ -1,6 +1,6 @@
 :github_url: https://github.com/guochengqian/KAUSTian_Handbook_CN
 
-驾照相关
+驾照
 ========
 
 
@@ -13,8 +13,8 @@
 2. 吉达
 
 
-驾照
-------
+考驾照
+---------
 
 新人学车
 ^^^^^^^^

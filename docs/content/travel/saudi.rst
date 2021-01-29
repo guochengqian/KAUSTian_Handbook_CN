@@ -10,7 +10,7 @@ KAUST 景点
 
 
 
-KAUST 八大景点
+KAUST 美景
 ------
 
 KAUST的存在就是一个世外桃源，有很多娱乐设施值得推荐的
@@ -31,7 +31,7 @@ snorkeling是非去不可的了，潜入红海，看珊瑚并和小鱼比谁游�
 .. image:: big_fish.jpg
 
 
-国王之眼看日落
+国王之眼看日出
 ^^^^^^^^^^
 
 
@@ -51,7 +51,31 @@ snorkeling是非去不可的了，潜入红海，看珊瑚并和小鱼比谁游�
 .. image:: car.jpg
 
 
+教学楼看日落
+^^^^^^^^^^^^^
+一般在下午五六点的样子，就能在侧面看到日落的美景，就像看到了极乐世界
+
+.. image:: building.jpg
+
+别墅待遇
+^^^^^^^^^^
+
+每个人都能享受到别墅服务，属于纯粹的拎包入住，一切设备屋子里都有
+
+.. image:: vilina.jpg
 
 
+利雅德 景点
+======
 
+the edge of the world 又称世界之巅
+强推，这应该是在沙特里面最让人难忘的地方了
+
+.. image:: edgeworld.jpg
+
+.. image:: mountain.jpg
+
+.. image:: mountian.jpg
+
+.. image:: stones.jpg
 

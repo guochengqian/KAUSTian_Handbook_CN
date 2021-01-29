@@ -32,6 +32,8 @@
 3. 在本仓库中请求一个[pull request](https://github.com/guochengqian/KAUSTian_Handbook_CN/pulls). 
 4. 审核通过后，您的内容将出现在本文档中。
 
+如果需要加入图片，请参考docs/content/travel/saudi.rst。并且把图片上传到_static/image这个文件夹
+
 
 以上就是全部啦，谢谢大家的贡献！！
 

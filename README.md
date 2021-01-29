@@ -3,7 +3,7 @@
 
 网页同步版本网址：[KAUST生存手册](https://kaustian-handbook-cn.readthedocs.io/en/latest/)
 
-![KAUST生存手册网页](static/image/website.png)
+![KAUST生存手册网页](docs/_static/image/website.png)
 
 
 ## 说明

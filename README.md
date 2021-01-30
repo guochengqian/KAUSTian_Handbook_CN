@@ -3,6 +3,9 @@
 
 网页同步版本网址：[KAUST生存手册](https://kaustian-handbook-cn.readthedocs.io/en/latest/)
 
+![KAUST生存手册网页](docs/_static/image/website.png)
+
+
 ## 说明
 本文档用reST语言撰写, 并支持Sphinx同步渲染。 
 
@@ -28,6 +31,8 @@
 2. 修改你fork的repo。如何修改？例如想添加驾校信息，可以编辑'docs/content/life/drive.rst'；想添加全新的小节，例如在生活篇中加入 '美食'节（假如没有这个小节），可以在'docs/content/life'中新建'food.rst'文件，并添加相应内容，然后在`docs/index.rst`文件相应位置加入新的一行`content/life/food`。可参考'drive.rst'进行编辑。  
 3. 在本仓库中请求一个[pull request](https://github.com/guochengqian/KAUSTian_Handbook_CN/pulls). 
 4. 审核通过后，您的内容将出现在本文档中。
+
+如果需要加入图片，请参考docs/content/travel/saudi.rst。并且把图片上传到docs/_static/image这个文件夹
 
 
 以上就是全部啦，谢谢大家的贡献！！

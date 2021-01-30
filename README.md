@@ -5,6 +5,11 @@
 
 ![KAUST生存手册网页](docs/_static/image/website.png)
 
+## 使用方法
+<KAUST生存手册>支持随时随地网页访问，[KAUST生存手册](https://kaustian-handbook-cn.readthedocs.io/en/latest/)。用户可以在<KAUST生存手册>很方便地进行内容的检索。 
+
+![KAUST生存手册检索](docs/_static/image/search.png)
+
 
 ## 说明
 本文档用reST语言撰写, 并支持Sphinx同步渲染。 

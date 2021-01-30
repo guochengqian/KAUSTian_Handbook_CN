@@ -32,14 +32,31 @@
 我们欢迎所有的KAUST在读学生、职员以及校友贡献本文档。本文档用reST语言撰写。reST 被认为是简单，实用的标记语言. 这里是reST的[使用文档](https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html). 如果您想贡献文档，可是不了解reST语言，没有关系，上述使用文档可以让你在10分钟以内上手。如果您不想学习reST语言，也没有关系，创建相应的文件（若所需文件不存在），在文件里写入必须的txt文字即可(不需要在乎格式）。  
 
 详细步骤：
-1. fork这个仓库(repo)。 如果已经forkl ，在你编辑之前，记得更新你的仓库。在你的仓库请求一个pull request。更新你自己仓库的pull request和默认的方向是相反的。先随便点击一个仓库换成另外一个，然后再点击正上方的compare across fork，然后再换另外一个仓库的名字，最后如图所示。
+
+1. fork这个仓库(repo)。 如果已经fork，在你改动你的仓库之前，记得更新你的仓库。更新方法： 1）在你的仓库请求一个pull request； 2）选择compare across fork； 3） pull request的左侧选中你的仓库，右侧选中本仓库（https://github.com/guochengqian/KAUSTian_Handbook_CN），这样左侧（你的仓库）的内容会被右侧（本仓库）内容更新。 如下图所示。
 ![更新你的本地仓库](docs/_static/image/compare_change.png)
 
 2. 修改你fork的repo。如何修改？例如想添加驾校信息，可以编辑'docs/content/life/drive.rst'；想添加全新的小节，例如在生活篇中加入 '美食'节（假如没有这个小节），可以在'docs/content/life'中新建'food.rst'文件，并添加相应内容，然后在`docs/index.rst`文件相应位置加入新的一行`content/life/food`。可参考'drive.rst'进行编辑。  
-3. 在本仓库中请求一个[pull request](https://github.com/guochengqian/KAUSTian_Handbook_CN/pulls). 
+
+3. 在本仓库中请求一个[pull request](https://github.com/guochengqian/KAUSTian_Handbook_CN/pulls). 点击new pull request, 点击compare across fork, pull request的左侧选中本仓库，右侧选中你的仓库。 确认后提交request. 
+
 4. 审核通过后，您的内容将出现在本文档中。
 
-如果需要加入图片，请参考docs/content/travel/saudi.rst。并且把图片上传到docs/_static/image这个文件夹
+
+NOTE: 如果需要加入图片，请参考docs/content/travel/saudi.rst。并且把图片上传到docs/_static/image这个文件夹
+
+
+## 我不想学Github的使用，我只是想贡献一份力量
+如果您不想使用pull request功能，您依然有两种方法恭喜<KAUST生存手册>。
+
+1. issue -> new issue -> 在issue内写下 相关文字即可。 会有管理人员将您的文字整理到手册里； 
+
+2. 微信或电邮联系任何一个管理员，并写下 相关文字，我们会整理到手册中。 
+
+
+## 联系方式
+[Gordon](mailto:guocheng.qian@kaust.edu.sa)
+[Jayden]
 
 
 以上就是全部啦，谢谢大家的贡献！！

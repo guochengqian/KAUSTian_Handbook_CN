@@ -47,7 +47,7 @@ NOTE: 如果需要加入图片，请参考docs/content/travel/saudi.rst。并且
 
 
 ## 我不想学Github的使用，我只是想贡献一份力量
-如果您不想使用pull request功能，您依然有两种方法恭喜<KAUST生存手册>。
+如果您不想使用pull request功能，您依然有两种方法贡献<KAUST生存手册>。
 
 1. issue -> new issue -> 在issue内写下 相关文字即可。 会有管理人员将您的文字整理到手册里； 
 
@@ -55,7 +55,8 @@ NOTE: 如果需要加入图片，请参考docs/content/travel/saudi.rst。并且
 
 
 ## 联系方式
-[Gordon](mailto:guocheng.qian@kaust.edu.sa)
+[Gordon](mailto:guocheng.qian@kaust.edu.sa)  
+
 [Jayden]
 
 

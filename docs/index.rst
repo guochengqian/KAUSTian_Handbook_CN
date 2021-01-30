@@ -21,6 +21,7 @@ KAUST生存手册
    content/life/shopping
    content/life/run
    content/life/ticket
+   content/life/list
    
 .. toctree::
    :glob:
@@ -37,5 +38,6 @@ KAUST生存手册
 
    content/finance/money_transfer
    content/finance/investment
+   content/finance/open_account
 
 

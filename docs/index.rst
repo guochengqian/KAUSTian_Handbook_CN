@@ -36,7 +36,7 @@ KAUST生存手册
    :maxdepth: 1
    :caption: 财务篇
 
-   content/finance/money_transfer
+   content/finance/transfer
    content/finance/investment
    content/finance/open_account
 

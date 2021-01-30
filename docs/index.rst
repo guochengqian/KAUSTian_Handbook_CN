@@ -14,14 +14,22 @@ KAUST生存手册
 .. toctree::
    :glob:
    :maxdepth: 1
+   :caption: 基础必备篇
+
+   content/basic/list
+
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
    :caption: 生活篇
 
 
    content/life/drive
    content/life/shopping
-   content/life/run
+   content/life/sport
    content/life/ticket
-   content/life/list
+
    
 .. toctree::
    :glob:
@@ -36,7 +44,7 @@ KAUST生存手册
    :maxdepth: 1
    :caption: 财务篇
 
-   content/finance/money_transfer
+   content/finance/transfer
    content/finance/investment
    content/finance/open_account
 

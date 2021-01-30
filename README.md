@@ -55,7 +55,7 @@ NOTE: 如果需要加入图片，请参考docs/content/travel/saudi.rst。并且
 
 
 ## 联系方式
-[Gordon](mailto:guocheng.qian@kaust.edu.sa)  
+[Guocheng Qian 钱国成](mailto:guocheng.qian@kaust.edu.sa)  
 
 [Jayden]
 

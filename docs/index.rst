@@ -21,6 +21,7 @@ KAUST生存手册
    content/life/shopping
    content/life/run
    content/life/ticket
+   content/life/
    
 .. toctree::
    :glob:

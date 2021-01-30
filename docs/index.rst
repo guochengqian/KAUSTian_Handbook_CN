@@ -19,7 +19,7 @@ KAUST生存手册
 
    content/life/drive
    content/life/shopping
-   content/life/run
+   content/life/sport
    content/life/ticket
    content/life/list
    

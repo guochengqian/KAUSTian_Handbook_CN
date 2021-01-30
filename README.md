@@ -32,7 +32,9 @@
 我们欢迎所有的KAUST在读学生、职员以及校友贡献本文档。本文档用reST语言撰写。reST 被认为是简单，实用的标记语言. 这里是reST的[使用文档](https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html). 如果您想贡献文档，可是不了解reST语言，没有关系，上述使用文档可以让你在10分钟以内上手。如果您不想学习reST语言，也没有关系，创建相应的文件（若所需文件不存在），在文件里写入必须的txt文字即可(不需要在乎格式）。  
 
 详细步骤：
-1. fork这个仓库(repo)。 
+1. fork这个仓库(repo)。 如果已经forkl ，在你编辑之前，记得更新你的仓库。在你的仓库请求一个pull request。更新你自己仓库的pull request和默认的方向是相反的。先随便点击一个仓库换成另外一个，然后再点击正上方的compare across fork，然后再换另外一个仓库的名字，最后如图所示。
+![更新你的本地仓库](docs/_static/image/compare_change.png)
+
 2. 修改你fork的repo。如何修改？例如想添加驾校信息，可以编辑'docs/content/life/drive.rst'；想添加全新的小节，例如在生活篇中加入 '美食'节（假如没有这个小节），可以在'docs/content/life'中新建'food.rst'文件，并添加相应内容，然后在`docs/index.rst`文件相应位置加入新的一行`content/life/food`。可参考'drive.rst'进行编辑。  
 3. 在本仓库中请求一个[pull request](https://github.com/guochengqian/KAUSTian_Handbook_CN/pulls). 
 4. 审核通过后，您的内容将出现在本文档中。

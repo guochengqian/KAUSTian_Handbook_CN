@@ -38,5 +38,6 @@ KAUST生存手册
 
    content/finance/money_transfer
    content/finance/investment
+   content/finance/open_account
 
 

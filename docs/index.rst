@@ -14,6 +14,14 @@ KAUST生存手册
 .. toctree::
    :glob:
    :maxdepth: 1
+   :caption: 基础必备篇
+
+   content/basic/list
+
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
    :caption: 生活篇
 
 
@@ -21,7 +29,7 @@ KAUST生存手册
    content/life/shopping
    content/life/sport
    content/life/ticket
-   content/life/list
+
    
 .. toctree::
    :glob:

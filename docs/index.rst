@@ -29,7 +29,7 @@ KAUST生存手册
    content/life/shopping
    content/life/sport
    content/life/ticket
-
+   content/life/food
    
 .. toctree::
    :glob:

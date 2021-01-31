@@ -22,9 +22,10 @@
     ├── content                 # KAUST生存手册主要内容
         ├── life                # 生活篇
         │     ├── drive.rst     # 驾校，学车
+        │     ├── shopping.rst  # 购物
         │
         ├── finance             # 财务篇
-        │     ├── tranfer_sar2rmb.rst # 转账回国
+        │     ├── tranfer.rst   # 转账回国
         └── ...
 
     
@@ -56,8 +57,6 @@ NOTE: 如果需要加入图片，请参考docs/content/travel/saudi.rst。并且
 
 ## 联系方式
 [Guocheng Qian 钱国成](mailto:guocheng.qian@kaust.edu.sa)  
-
-[Jayden]
 
 
 以上就是全部啦，谢谢大家的贡献！！

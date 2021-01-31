@@ -34,7 +34,7 @@
 
 详细步骤：
 
-1. fork这个仓库(repo)。 如果已经fork，在你改动你的仓库之前，记得更新你的仓库。更新方法： 1）在你的仓库请求一个pull request； 2）选择compare across fork； 3） pull request的左侧选中你的仓库，右侧选中本仓库（https://github.com/guochengqian/KAUSTian_Handbook_CN），这样左侧（你的仓库）的内容会被右侧（本仓库）内容更新。 如下图所示。
+1. fork这个仓库(repo)。 如果已经fork，在你改动你的仓库之前，记得更新你的仓库。更新方法： 1）在你的仓库请求一个pull request； 2）选择compare across fork； 3） pull request的左侧选中你的仓库，右侧选中[本仓库](https://github.com/guochengqian/KAUSTian_Handbook_CN），这样左侧（你的仓库）的内容会被右侧（本仓库）内容更新。 如下图所示。
 ![更新你的本地仓库](docs/_static/image/compare_change.png)
 
 2. 修改你fork的repo。如何修改？例如想添加驾校信息，可以编辑'docs/content/life/drive.rst'；想添加全新的小节，例如在生活篇中加入 '美食'节（假如没有这个小节），可以在'docs/content/life'中新建'food.rst'文件，并添加相应内容，然后在`docs/index.rst`文件相应位置加入新的一行`content/life/food`。可参考'drive.rst'进行编辑。  

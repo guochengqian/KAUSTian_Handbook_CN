@@ -1,6 +1,6 @@
 :github_url: https://github.com/guochengqian/KAUSTian_Handbook_CN
 
-美食相关
+美食
 ========
 
 

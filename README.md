@@ -1,5 +1,5 @@
 # KAUST生存手册
-[《KAUST生存手册》](https://kaustian-handbook-cn.readthedocs.io/en/latest/)诞生于2021年1月26日。本手册旨在集中与分享KAUST生活、学习及娱乐中的诸多感悟、经验和技巧。《KAUST生存手册》支持网页在线预览。 我们希望本手册可以在我们和社区的共同维护下一直存活下去，并能给KAUST入学新生、在读学生、职员、家属以及校友带来帮助。 感谢参与本手册编辑的作者们！同时期待更多作者们的加入！ 
+[《KAUST生存手册》](https://kaustian-handbook-cn.readthedocs.io/en/latest/)诞生于2021年1月26日。本手册旨在集中与分享KAUST生活、学习及娱乐中的诸多感悟、经验和技巧。《KAUST生存手册》支持网页在线预览及信息检索。 我们希望本手册可以在我们和社区的共同维护下一直存活下去，并能给KAUST入学新生、在读学生、职员、家属以及校友带来帮助。 感谢参与本手册编辑的作者们！同时期待更多作者们的加入！ 
 
 网页同步版本网址：[《KAUST生存手册》](https://kaustian-handbook-cn.readthedocs.io/en/latest/)。下图截取时间：2021年1月27日。本网站将在社区的协助下持续更新。 
 

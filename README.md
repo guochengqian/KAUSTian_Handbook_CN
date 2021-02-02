@@ -1,23 +1,23 @@
 # KAUST生存手册
-<KAUST生存手册>诞生于2021年1月。本项目旨在将它制作成WIKI文档在线发布，并长期维护，希望能给KAUST在读以及入学新生带来帮助。 本文档将涵盖学习中生活的诸多生存技巧和来自不同作者们的生活经验。感谢参与本文档编辑的作者们！
+[《KAUST生存手册》](https://kaustian-handbook-cn.readthedocs.io/en/latest/)诞生于2021年1月26日。本手册旨在集中与分享KAUST生活、学习及娱乐中的诸多感悟、经验和技巧。《KAUST生存手册》支持网页在线预览。 我们希望手册可以在我们和社区的共同维护下一直存活下去，并能给KAUST入学新生、在读学生、职员、家属以及校友带来帮助。 感谢参与本手册编辑的作者们！
 
-网页同步版本网址：[KAUST生存手册](https://kaustian-handbook-cn.readthedocs.io/en/latest/)。下图截取时间：2021年1月27日。本网站将在社区的协助下持续更新。 
+网页同步版本网址：[《KAUST生存手册》](https://kaustian-handbook-cn.readthedocs.io/en/latest/)。下图截取时间：2021年1月27日。本网站将在社区的协助下持续更新。 
 
 ![KAUST生存手册网页](docs/_static/image/website.png)
 
 ## 使用方法
-<KAUST生存手册>支持随时随地网页访问，[KAUST生存手册](https://kaustian-handbook-cn.readthedocs.io/en/latest/)。用户可以在<KAUST生存手册>很方便地进行内容的检索。 
+《KAUST生存手册》支持随时随地网页访问，[《KAUST生存手册》网址](https://kaustian-handbook-cn.readthedocs.io/en/latest/)。用户可以在《KAUST生存手册》很方便地进行内容的检索。 
 
 ![KAUST生存手册检索](docs/_static/image/search.png)
 
 
 ## 说明
-本文档用reST语言撰写, 并支持Sphinx同步渲染。 
+本手册用reST语言撰写, 并支持Sphinx同步渲染。 
 
-本文档结构如下：
+本手册结构如下：
 
     docs
-    ├── index.rst               # 目录文档
+    ├── index.rst               # 目录手册
     ├── conf.py                 # Sphinx网页渲染所需要的配置文件
     ├── content                 # KAUST生存手册主要内容
         ├── life                # 生活篇
@@ -29,8 +29,8 @@
         └── ...
 
     
-## 如何贡献本文档
-我们欢迎所有的KAUST在读学生、职员以及校友贡献本文档。本文档用reST语言撰写。reST 被认为是简单，实用的标记语言. 这里是reST的[使用文档](https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html). 如果您想贡献文档，可是不了解reST语言，没有关系，上述使用文档可以让你在10分钟以内上手。如果您不想学习reST语言，也没有关系，创建相应的文件（若所需文件不存在），在文件里写入必须的txt文字即可(不需要在乎格式）。  
+## 如何贡献本手册
+我们欢迎所有的KAUST在读学生、职员、家属以及校友贡献本手册。本手册用reST语言撰写。reST 被认为是简单，实用的标记语言. 这里是reST的[使用文档](https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html). 如果您想贡献本手册，可是不了解reST语言，没有关系，上述使用文档可以让你在10分钟以内上手。如果您不想学习reST语言，也没有关系，创建相应的文件（若所需文件不存在），在文件里写入必须的txt文字即可(不需要在乎格式）。  
 
 详细步骤：
 
@@ -41,14 +41,14 @@
 
 3. 在本仓库中请求一个[pull request](https://github.com/guochengqian/KAUSTian_Handbook_CN/pulls). 点击new pull request, 点击compare across fork, pull request的左侧选中本仓库，右侧选中你的仓库。 确认后提交request. 
 
-4. 审核通过后，您的内容将出现在本文档中。
+4. 审核通过后，您的内容将出现在本手册中。
 
 
 NOTE: 如果需要加入图片，请参考docs/content/travel/saudi.rst。并且把图片上传到docs/_static/image这个文件夹
 
 
 ## 我不想学Github的使用，我只是想贡献一份力量
-如果您不想使用pull request功能，您依然有两种方法贡献<KAUST生存手册>。
+如果您不想使用pull request功能，您依然有两种方法贡献《KAUST生存手册》。
 
 1. issue -> new issue -> 在issue内写下 相关文字即可。 会有管理人员将您的文字整理到手册里； 
 

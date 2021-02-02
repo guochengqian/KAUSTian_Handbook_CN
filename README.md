@@ -55,10 +55,6 @@ NOTE: 如果需要加入图片，请参考docs/content/travel/saudi.rst。并且
 2. 微信或电邮联系任何一个管理员，并写下 相关文字，我们会整理到手册中。 
 
 
-## 联系方式
-[Guocheng Qian 钱国成](mailto:guocheng.qian@kaust.edu.sa)  
-
-
 以上就是全部啦，谢谢大家的贡献！！
 
 

@@ -31,7 +31,7 @@ KAUST生存手册
    content/life/sport
    content/life/ticket
    content/life/food
-   content/life/
+   content/life/music
    
 .. toctree::
    :glob:

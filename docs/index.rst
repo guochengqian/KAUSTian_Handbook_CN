@@ -18,6 +18,7 @@ KAUST生存手册
    :caption: 基础必备篇
 
    content/basic/list
+   content/basic/group_list
 
 
 .. toctree::

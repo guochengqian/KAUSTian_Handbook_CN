@@ -34,7 +34,7 @@
 
 券商选择好之后，就到了开户阶段啦，下面以我用的德美利证券为例子，其他券商大同小异。
 
-这里我直接扔一个网站的教程，我就是按照上面的操作的： `德美利证券开户 <http://www.sugarforex.com/securities/tdameritrade-open-account.html>`_。
+这里我直接扔一个网站的教程，我就是按照上面的操作的： `德美利证券开户 <http://www.sugarforex.com/securities/tdameritrade-open-account.html>`_。 (来自另外一个作者： 这个教程很棒，非常详细，也非常长，推荐用两个设备开户，一个设备看开户教程，一个设备follow教程一步步开户， 预计耗时30分钟）。 
 
 里面要你写入金的银行卡，就填写沙特的银行卡就好，国内的银行卡因为外汇管制，是被禁止外汇投资的。
 

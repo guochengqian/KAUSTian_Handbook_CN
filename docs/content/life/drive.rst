@@ -40,7 +40,7 @@
 首先到 `VEHICLE DRIVING LICENSE ISSUE (MALE) <https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>`_
 Motor vehicle service ->Driving license issue -> 填写所有信息， 注意License Number 填身份证号！
 
-然后你会获得三张表格，全部彩色印刷，带Government Affair 蓝色鲜章的那个表请仔细核对，如果和驾照原件的时间和身份证号不符会被退回：
+然后你会获得三张表格，全部彩色印刷，带Government Affair 蓝色鲜章的那个表1请仔细核对，表1，2，3都不需要填写。如果表1的 Licence number 和驾照原件的时间和身份证号不符会被退回：
 
 .. image:: drive_paperwork.png
 

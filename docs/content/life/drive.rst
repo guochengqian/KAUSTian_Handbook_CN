@@ -42,7 +42,7 @@ Motor vehicle service ->Driving license issue -> 填写所有信息， 注意Lic
 
 然后你会获得三张表格，全部彩色印刷，带Government Affair 蓝色鲜章的那个表请仔细核对，如果和驾照原件的时间和身份证号不符会被退回：
 
-.. image:: drive_paperwork.PNG
+.. image:: drive_paperwork.png
 
 需要如下材料：
 

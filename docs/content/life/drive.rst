@@ -37,7 +37,7 @@
 
 1.1 材料准备
 ^^^^^^^^^^^^^^^^
-首先到 `VEHICLE DRIVING LICENSE ISSUE<https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>` 
+首先到 `VEHICLE DRIVING LICENSE ISSUE (MALE) <https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>`_
 Motor vehicle service ->Driving license issue -> 填写所有信息， 注意License Number 填身份证号！
 
 然后你会获得三张表格，全部彩色印刷，带Government Affair 蓝色鲜章的那个表请仔细核对，如果和驾照原件的时间和身份证号不符会被退回：
@@ -60,6 +60,7 @@ image:: 3_paperworks.png
 按照上面链接准备好如下材料后，最好再准备驾照原件+Iqama的彩色复印件若干，驾校虽然会给复印但是5sar/张
 
 同时，需要在手机银行预先缴纳驾照费用，Type选择 Private -> 驾照时间选择 10年。
+
 To Pay from Your bank account:
 
 1. Log on to your online banking
@@ -77,15 +78,64 @@ To Pay from Your bank account:
 
 1.2 预约考试
 ^^^^^^^^^^^^^^^^
-官方链接`VEHICLE DRIVING LICENSE ISSUE <https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>` 需要在absher上预约，但是拉比格的驾校
+官方链接`VEHICLE DRIVING LICENSE ISSUE (MALE) <https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>`_ 需要在absher上预约，但是absher上预约的位置是Driver Licence Station in Rabigh，而不是Driving School in Rabigh。吉达可以驾校absher预约。
+
+拉比格的驾校预约方式如下：
+
+访问网址: `https://sd-driveschool.com<https://sd-driveschool.com>`_ 这个网址校园网无法访问，不知道为什么。。请使用4G访问并预约时间。
+
+拉比格驾校电话 +966 567007707 可以打电话询问
+
+如果不放心也可通过Whatsapp 和他联系 号码同样是 +966 567007707
 
 
 
 1.3 考试当天
 ^^^^^^^^^^^^^^^^
+手机下载 KAUST ride APP 最好提前一天预约出租车。拉比格没有uber类似软件，所以上车前需要和KAUST的司机说好在考场外面等，等候需要加钱，亲测：一趟来回350sar左右（包含1小时等待）。
 
-沙特驾照换国内驾照
-^^^^^^^^^^^^^^^^^^^
+自动挡和手动挡发的证是一样的，所以考试就选择自动挡。考试内容真的是看考官心情：我前面一个白人（也是KAUST来的），转了一圈就结束了，我还考了倒车入库。。。
+
+
+考试内容基本如下：
+
+a. 车子一般启动好了，所以无需启动
+
+b. 绕着场地开一圈，注意到STOP sign的地方停下，考官不会提示
+
+c. 直角倒车入库，需要一次完成，具体点位参考 `B站视频<https://www.bilibili.com/video/BV1Zt411j7bD?from=search&seid=15457051028785562790>`_
+
+
+驾校俯瞰图：
+
+image:: map.PNG
+
+1.4 注意事项
+^^^^^^^^^^^^^^^^
+a. 可以根据上述俯瞰图自行联系3个平行车位的倒车入库点位，倒车入库是主要挂科的重点，需要引起重视，考试前如果有机会练习请多加练习。
+
+b. 每个倒车入库的库边有突起障碍物，如果压线，轮子会被抵住，考官会有感觉
+
+c. 我遇到的考官故意刁难我，让我在没有足够空间入库的位置倒车，如果遇到上述情况：你需要明确表示这无法成功，会碰到库边。我的教官于是又给了我一次机会，第二次完美入库。
+
+d. 同时也会有练车和考试同时在场的情况，需要临场应变
+
+
+最后：
+^^^^^^^^^^^^^^^^
+拉比格驾校最大的优点是：人不多。基本今天能够约第二天的考试。
+
+但是缺点也很明显，考官比较严格，传闻年底有指标会挂大部分考生。
+
+Anyway，希望以上信息对你有所帮助，祝考试顺利！
+
+
+三：国内驾照换沙特驾照(Male 男性)(Driving School in Jeddah 吉达驾校)
+---------
+
+
+四：沙特驾照换国内驾照
+---------
 
 链接： https://zhuanlan.zhihu.com/p/67267383
 

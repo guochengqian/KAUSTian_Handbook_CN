@@ -44,7 +44,8 @@ Motor vehicle service ->Driving license issue -> 填写所有信息， 注意Lic
 
 image:: 3_paperworks.png
 
-需要如下材料
+需要如下材料：
+
 * Original Iqama
 
 * Original driving license (if applicable)
@@ -59,9 +60,11 @@ image:: 3_paperworks.png
 
 按照上面链接准备好如下材料后，最好再准备驾照原件+Iqama的彩色复印件若干，驾校虽然会给复印但是5sar/张
 
-同时，需要在手机银行预先缴纳驾照费用，Type选择 Private -> 驾照时间选择 10年。
+同时，需要在手机银行预先缴纳驾照费用，Type选择 Private -> 驾照时间选择 10年，费用400。
+
 
 To Pay from Your bank account:
+
 
 1. Log on to your online banking
 
@@ -78,7 +81,7 @@ To Pay from Your bank account:
 
 1.2 预约考试
 ^^^^^^^^^^^^^^^^
-官方链接`VEHICLE DRIVING LICENSE ISSUE (MALE) <https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>`_ 需要在absher上预约，但是absher上预约的位置是Driver Licence Station in Rabigh，而不是Driving School in Rabigh。吉达可以驾校absher预约。
+官方链接  `VEHICLE DRIVING LICENSE ISSUE (MALE) <https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>`_  需要在absher上预约，但是absher上预约的位置是Driver Licence Station in Rabigh，而不是Driving School in Rabigh。吉达驾校可以absher预约。
 
 拉比格的驾校预约方式如下：
 
@@ -87,6 +90,8 @@ To Pay from Your bank account:
 拉比格驾校电话 +966 567007707 可以打电话询问
 
 如果不放心也可通过Whatsapp 和他联系 号码同样是 +966 567007707
+
+也可谷歌搜索 Driving School in Rabigh 获取地址以及电话信息。
 
 
 

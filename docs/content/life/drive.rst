@@ -42,7 +42,7 @@ Motor vehicle service ->Driving license issue -> 填写所有信息， 注意Lic
 
 然后你会获得三张表格，全部彩色印刷，带Government Affair 蓝色鲜章的那个表请仔细核对，如果和驾照原件的时间和身份证号不符会被退回：
 
-image:: 3_paperworks.png
+.. image:: drive_paperwork.PNG
 
 需要如下材料：
 
@@ -113,7 +113,7 @@ c. 直角倒车入库，需要一次完成，具体点位参考 `B站视频<http
 
 驾校俯瞰图：
 
-image:: map.PNG
+.. image:: drive_map.PNG
 
 1.4 注意事项
 ^^^^^^^^^^^^^^^^

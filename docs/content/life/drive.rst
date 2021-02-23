@@ -85,7 +85,7 @@ To Pay from Your bank account:
 
 拉比格的驾校预约方式如下：
 
-访问网址: `https://sd-driveschool.com<https://sd-driveschool.com>`_ 这个网址校园网无法访问，不知道为什么。。请使用4G访问并预约时间。
+访问网址: https://sd-driveschool.com 这个网址校园网无法访问，不知道为什么。。请使用4G访问并预约时间。
 
 拉比格驾校电话 +966 567007707 可以打电话询问
 

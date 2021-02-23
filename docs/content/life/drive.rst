@@ -37,34 +37,47 @@
 
 1.1 材料准备
 ^^^^^^^^^^^^^^^^
-首先到[VEHICLE DRIVING LICENSE ISSUE (MALES)]( https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue) 
+首先到 `VEHICLE DRIVING LICENSE ISSUE (MALES)<https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>` 
 Motor vehicle service ->Driving license issue -> 填写所有信息， 注意License Number 填身份证号！
+
 然后你会获得三张表格，全部彩色印刷，带Government Affair 蓝色鲜章的那个表请仔细核对，如果和驾照原件的时间和身份证号不符会被退回：
 
 image:: 3_paperworks.png
 
 需要如下材料
 * Original Iqama
+
 * Original driving license (if applicable)
+
 * 100 SAR for Medical checkup
+
 * 4 Personal Photos (white background)
+
 * Supporting applications (printed in color)(3张表格彩印)
+
 * Pay driving license fee through online banking (SADAD)
+
 按照上面链接准备好如下材料后，最好再准备驾照原件+Iqama的彩色复印件若干，驾校虽然会给复印但是5sar/张
 
 同时，需要在手机银行预先缴纳驾照费用，Type选择 Private -> 驾照时间选择 10年。
 To Pay from Your bank account:
+
 1. Log on to your online banking
+
 2. Click SADAD, then click government services
+
 3. Chose “driving license”, type you Iqama number. From the menu
+
 4. Select the type of required license (private)
+
 5. Select the duration
+
 6. Finally approve the payment
 
 
 1.2 预约考试
 ^^^^^^^^^^^^^^^^
-官方链接[VEHICLE DRIVING LICENSE ISSUE (MALES)]( https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue) 需要在absher上预约，但是拉比格的驾校
+官方链接`VEHICLE DRIVING LICENSE ISSUE (MALES)<https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>` 需要在absher上预约，但是拉比格的驾校
 
 
 

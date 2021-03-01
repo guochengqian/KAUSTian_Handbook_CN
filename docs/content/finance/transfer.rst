@@ -28,7 +28,7 @@ SABB 转账
     * 登录SABB -> 左上角点击menu -> Transfers -> Add a beneficiary -> Overseas Beneficiary ->英文填写受益人姓名（姓在前，名在后，如 QIAN GUOCHENG)-> 添加国内银行卡卡号(国内的卡号就是IBAN号) -> 添加开户行英文地址（无需准确）-> 币种选择USD -> 确认并激活。
 
 2. 转账：Transfers -> Beneficiary -> 选择国内银行卡的那个受益人 -> make a transfer -> 从 my account 中选择 SABB 卡号，transfer to 上述Beneficiary，填写金额 -> Normal Transfer。
-3. 国内银行卡预计一周收到外汇（美元），若超过5000美元，一般需要在相应国内银行手机端进行申报。 （例如招商银行app中，搜索“申报”，填写 金额来源是 工人酬金。）
+3. 国内银行卡预计一周收到外汇（美元），若超过5000美元，一般需要在相应国内银行手机端进行申报。 （例如招商银行app中，搜索“申报”，填写交易编码321000， 交易编码子项32100003。）
 4. 在银行APP上进行结汇（美元外汇结算成rmb）。
 
 

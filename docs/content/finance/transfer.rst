@@ -62,10 +62,9 @@ stc pay 的交易成本比直接电汇要低，单次20sar的汇费比银行的4
   3. 方法三：SADAD。 这种方法是即时到帐的，目前免手续费。Stc Pay中add money -> SADAD -> 复制sadad number -> 到你的银行app里找到Bills -> one time payment -> 搜索001，找到Saudi Telecom Company -> 输入对应的SADAD number（或称为BILL NUMBER） 和付款金额就可以转账啦。目前1万SAR限额，可以分两次转，第二次转可以隔一段时间（如5分钟）或者换一个金额（如相差0.01沙），不然会觉得你是重复操作而拒绝，可自己尝试，若错误，不会产生任何费用收取。
   
  
-<<<<<<< HEAD
 3. 转账到支付宝绑定银行卡：
 
-  在STC PAY（APP）选择international transfer -> add new receiver -> 填写个人信息（transfer to a mobile wallet） ->  **如果是第一次使用，记得填promotion code ISQE4R 或者KIKJSJ喔，会返现。换着用** -> 操作进行转账 -> 在stc pay 确认之后，支付宝会收到 “闪速收款” 小程序的信息 -> 选择好支付宝收款的银行卡，一路确认即可。
+  在STC PAY（APP）选择international transfer -> add new receiver -> 填写个人信息（transfer to a mobile wallet） ->  **如果是第一次使用，记得填promotion code ISQE4R 或者KIKJSJ喔，会返现。随机选择，第二次使用就不需要填了，没有返现啦** -> 操作进行转账 -> 在stc pay 确认之后，支付宝会收到 “闪速收款” 小程序的信息 -> 选择好支付宝收款的银行卡，一路确认即可。
   **手续费大概在30人民币左右**
 =======
 3. 转好钱之后， 在STC PAY选择international transfer -> 可以选择转账到银行卡或者转账到电子钱包（支付宝)，填写好资料，就可以转账啦-> make a transfer -> **如果是第一次使用，记得填promotion code ISQE4R 或者KIKJSJ喔，会返现。换着用** -> 可保存MTCN码 （西联的转账交易码）
@@ -100,6 +99,4 @@ stc pay 的交易成本比直接电汇要低，单次20sar的汇费比银行的4
 
 NOTE：
 
-1. 我把支付宝那部分划掉是因为暂时没有人试过，不知道是否可行。
-
-2. 现在国内手机银行之间相互转账不需要手续费了，转到支付宝也不需要手续费，反正支付宝提现到银行卡需要手续费（可以先转账到阿里巴巴旗下的微商银行，再从微商银行提现，）。
+1. 现在国内手机银行之间相互转账不需要手续费了，转到支付宝也不需要手续费。从支付宝提现到银行卡需要手续费，但是可以先转账到阿里巴巴旗下的网商银行，再从网商银行提现，这样就不需要手续费了。

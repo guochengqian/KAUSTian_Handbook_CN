@@ -2,6 +2,7 @@
 .idea/
 .vscode/
 *pyc
-docs/build/
+docs/_build/
+docs/_static/
 docs/.DS_Store
 

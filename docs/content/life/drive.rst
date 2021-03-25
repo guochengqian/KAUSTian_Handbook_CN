@@ -30,41 +30,38 @@
 10. 不能现场取驾照，下午一点取。可以让学校GA帮忙取。把盖好章的学车单带到GA，告诉前台，前台会复印你的iqama，收下你的单子帮你取。 或者让司机帮你取。
 
 
-二：国内驾照换沙特驾照(Male 男性)(Driving School in Rabigh 拉比格驾校)
+二：国内驾照换沙特驾照(Male 男性)
 ---------
 
-**更新时间 2021年2月23日**
+**极度不建议大家前往拉比格驾校，那里有一个很出名的埃及人考官（校长）会故意为难中国人，会在考试当中增大难度、干扰考试、以莫名其妙的理由无端挂科。此人已遭到数十名中国人反馈**
 
 1.1 材料准备
 ^^^^^^^^^^^^^^^^
 首先到 `VEHICLE DRIVING LICENSE ISSUE (MALE) <https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>`_
 Motor vehicle service ->Driving license issue -> 填写所有信息， 注意License Number 填身份证号！
 
-然后你会获得三张表格，全部彩色印刷，带Government Affair 蓝色鲜章的那个表1请仔细核对，表1，2，3都不需要填写。如果表1的 Licence number 和驾照原件的时间和身份证号不符会被退回：
+然后你会获得三张表格（若失败则换台电脑/重新申请一次），全部彩色印刷，带Government Affair 蓝色鲜章的那个表1请仔细核对，表1，2，3都不需要填写。如果表1的 Licence number 和驾照原件的时间和身份证号不符会被退回：
 
 .. image:: drive_paperwork.png
 
 需要如下材料：
 
-* Original Iqama
-
-* Original driving license (if applicable)
-
+* 3张表格彩印
+* Original Iqama， 复印1张
+* Original driving license (if applicable)， 复印1张
+* 4 Personal Photos，在GA(building 4) 前面有免费机器可以打印
 * 100 SAR for Medical checkup
+* 1.3 网上预约的凭证/邮件
 
-* 4 Personal Photos (white background)
 
-* Supporting applications (printed in color)(3张表格彩印)
+1.2 网上缴费
+^^^^^^^^^^^^^^^^
 
-* Pay driving license fee through online banking (SADAD)
+登录网上银行比如SABB， 选择SADAD， 给自己驾照缴费（这个费用是长期有效的）。
 
-按照上面链接准备好如下材料后，最好再准备驾照原件+Iqama的彩色复印件若干，驾校虽然会给复印但是5sar/张
-
-同时，需要在手机银行预先缴纳驾照费用，Type选择 Private -> 驾照时间选择 10年，费用400。
-
+选择private car -> 驾照年限按个人需求选择5年或者10年。
 
 To Pay from Your bank account:
-
 
 1. Log on to your online banking
 
@@ -79,43 +76,45 @@ To Pay from Your bank account:
 6. Finally approve the payment
 
 
-1.2 预约考试
+1.3 预约考试
 ^^^^^^^^^^^^^^^^
-官方链接  `VEHICLE DRIVING LICENSE ISSUE (MALE) <https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>`_  需要在absher上预约，但是absher上预约的位置是Driver Licence Station in Rabigh，而不是Driving School in Rabigh。吉达驾校可以absher预约。
 
-拉比格的驾校预约方式如下：
+拉比格驾校预约： 访问网址: https://sd-driveschool.com （这个网址校园网无法访问，请使用4G/VPN 并预约时间。）
 
-访问网址: https://sd-driveschool.com 这个网址校园网无法访问，不知道为什么。。请使用4G访问并预约时间。
+拉比格驾校电话 +966 567007707 可以打电话询问；如果不放心也可通过Whatsapp 和他联系 号码同样是 +966 567007707； 也可谷歌搜索 Driving School in Rabigh 获取地址以及电话信息。
 
-拉比格驾校电话 +966 567007707 可以打电话询问
-
-如果不放心也可通过Whatsapp 和他联系 号码同样是 +966 567007707
-
-也可谷歌搜索 Driving School in Rabigh 获取地址以及电话信息。
+吉达驾校预约： 登录absher 进行预约（21年3月有人没有预约就去考试了， 文档编辑者暂未亲自验证）
 
 
 
-1.3 考试当天
+1.4 考试当天
 ^^^^^^^^^^^^^^^^
+
+完成1.2 缴费， 1.3 预约， 带齐1.1 材料， 租车/喊人送去驾校。
+
 手机下载 KAUST ride APP 最好提前一天预约出租车。拉比格没有uber类似软件，所以上车前需要和KAUST的司机说好在考场外面等，等候需要加钱，亲测：一趟来回350sar左右（包含1小时等待）。
 
-自动挡和手动挡发的证是一样的，所以考试就选择自动挡。考试内容真的是看考官心情：我前面一个白人（也是KAUST来的），转了一圈就结束了，我还考了倒车入库。。。
+拉比格考场经验（**再一次提醒大家不要去拉比格驾校**）：
 
+进门完成材料准备 -> 进行体检（问血型） -> 穿制服的人给你的材料盖章，询问你考手动挡自动挡（发的证是一样的） -> 大厅等待考试。
+
+拉比格埃及人考官对中国人存在偏见，具体表现在：
+
+* 对白人、中东人非常宽松，不会上车跟考，基本只要车子启动就能通过，甚至有人不系安全带都能通过；
+* 对中国人很刻薄，会坐在副驾驶，让你开车但是懒洋洋不告诉你考什么，在十字路口突然告诉你左转还是右转；中国人必考倒车入库，但是不会给你足够的倒车空间（多人反映）；即使你各项操作没有问题，也会以“打方向盘 not good” 为理由挂你（多人反映）。
 
 考试内容基本如下：
 
-a. 车子一般启动好了，所以无需启动
-
-b. 绕着场地开一圈，注意到STOP sign的地方停下，考官不会提示
-
-c. 直角倒车入库，需要一次完成，具体点位请 B站自行搜索：“倒车入库”
+* 车子一般启动好了，所以无需启动
+* 绕着场地开一圈，注意到STOP sign的地方停下，考官不会提示
+* 直角倒车入库，需要一次完成，具体点位请 B站自行搜索：“倒车入库”
 
 
-驾校俯瞰图：
+驾校俯瞰图（实际情况不一样，但是倒车入库是一样的装置）：
 
 .. image:: drive_map.PNG
 
-1.4 注意事项
+1.5 注意事项
 ^^^^^^^^^^^^^^^^
 a. 可以根据上述俯瞰图自行练习3个平行车位的倒车入库点位，倒车入库是主要挂科的重点，需要引起重视，考试前如果有机会练习请多加练习。
 
@@ -128,15 +127,17 @@ d. 也会有练车和考试同时在场的情况，需要临场应变
 
 最后：
 ^^^^^^^^^^^^^^^^
-拉比格驾校最大的优点是：人不多。基本今天能够约第二天的考试。
+拉比格驾校最大的优点是：人不多，基本今天能够约第二天的考试。
 
 但是缺点也很明显，考官比较严格，传闻年底有指标会挂大部分考生。
 
 Anyway，希望以上信息对你有所帮助，祝考试顺利！
 
 
-三：国内驾照换沙特驾照(Male 男性)(Driving School in Jeddah 吉达驾校)
+三：国内驾照换沙特驾照(Female 女性)
 ---------
+
+女生的驾驶证需要在国内进行双认证，其他步骤和男生基本一样。
 
 
 四：沙特驾照换国内驾照

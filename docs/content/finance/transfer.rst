@@ -62,25 +62,28 @@ stc pay 的交易成本比直接电汇要低，单次20sar的汇费比银行的4
   3. 方法三（推荐）：SADAD，免手续费且即时到账。
     * Stc Pay app -> add money -> SADAD -> 复制sadad number 
     * 登录网上银行或者打开银行app，SADAD/Bills -> one time payment -> 001 Saudi Telecom Company（注意这里不是STC） -> 输入前一步的 SADAD number（或称为BILL NUMBER） -> 填入付款金额
-    * 每天6万SAR限额，如果限额不够可以分两次转，第二次转可以隔一段时间（如5分钟）或者换一个金额（如相差0.01沙），不然会觉得你是重复操作而拒绝，可自己尝试，若错误，不会产生任何费用收取。
+    * 每次1万SAR限额，如果限额不够可以分两次转，第二次转可以隔一段时间（如5分钟）或者换一个金额（如相差0.01沙），不然会觉得你是重复操作而拒绝，可自己尝试，若错误，不会产生任何费用收取。
   
-3. stc pay 转账到支付宝 （绑定的银行卡）
+  3 国际转账
+  
+   3.1 stc pay 转账到支付宝 （绑定的银行卡）
 
-  * 在STC PAY APP 选择international transfer -> add new receiver -> 填写个人信息（transfer to a mobile wallet， 下一步会自动选择支付宝） ->  **如果是第一次使用，记得填promotion code ISQE4R 或者KIKJSJ喔，会返现。换着用** 
-  * 支付宝会收到 “闪速收款” 小程序的信息 -> 选择好支付宝收款的银行卡，一路确认即可。**手续费大概在30人民币左右**
+      * 在STC PAY APP 选择international transfer -> add new receiver -> 填写个人信息（transfer to a mobile wallet， 下一步会自动选择支付宝） ->  **如果是第一次使用，记得填promotion code ISQE4R 或者KIKJSJ喔，会返现。换着用** 
+      * 支付宝会收到 “闪速收款” 小程序的信息 -> 选择好支付宝收款的银行卡，一路确认即可。**手续费大概在30人民币左右**
   
 
-4. stc pay 转账到国内银行卡
+   3.2. stc pay 转账到国内银行卡
+     * 在STC PAY APP 选择international transfer -> add new receiver -> 填写个人信息（transfer to bank account,然后填写银行信息） ->  **如果是第一次使用，记得填promotion code ISQE4R 或者KIKJSJ喔，会返现。换着用** 
 
-  1.  如果是中国光大银行 (CEB)，上海浦东发展银行 (SPDB)，中国银行 (BOC)其中之一，你可以
+     1.  如果是中国光大银行 (CEB)，上海浦东发展银行 (SPDB)，中国银行 (BOC)其中之一，你可以
 
-    1. 登录银行的网上银行或手机银行。
-    2. 填写汇款明细。请务必填入汇款人的完整信息和汇款监控号 (MTCN)。
-    3. 选择您的收款账户。您可以直接将钱存入借记卡中。
+      1. 登录银行的网上银行或手机银行。
+      2. 填写汇款明细。请务必填入汇款人的完整信息和汇款监控号 (MTCN)。
+      3. 选择您的收款账户。您可以直接将钱存入借记卡中。
 
-  2. 如果不是上述银行
-
-    * 首次转账收款人会收到短信让打电话去西联汇款或者等待西联汇款打过来，以确认身份信息（一般需要转账人 身份证信息，MTCN码），确认之后就可以收款啦！如果收款人在国外，打给西联汇款前面加0086。后续转账就直接到账就不需要打电话了。
+     2. 如果不是上述银行
+      
+       * 首次转账收款人会收到短信让打电话去西联汇款或者等待西联汇款打过来，以确认身份信息（一般需要转账人 身份证信息，MTCN码），确认之后就可以收款啦！如果收款人在国外，打给西联汇款前面加0086。后续转账就直接到账就不需要打电话了。
 
 
 5. 查询转账进度可以到 `西联汇款查询 <https://www.westernunion.com/global-service/track-transfer?WULanguage=zh&WUCountry=CN>`_, 需要MTCN。 从第二次转账开始，STC PAY秒到账 （1分钟以内）

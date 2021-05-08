@@ -19,6 +19,7 @@ KAUST生存手册
 
    content/basic/list
    content/basic/group_list
+   content/basic/bonus-getting
 
 
 .. toctree::
@@ -34,6 +35,7 @@ KAUST生存手册
    content/life/food
    content/life/music
    content/life/misc
+   content/life/rent_car
    
 .. toctree::
    :glob:

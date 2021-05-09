@@ -7,7 +7,7 @@ Taxi & Car Rental
 这是学校关于出租车，租车的所有信息，可以找到价目表
 https://communitylife.kaust.edu.sa/Services/Pages/Taxi-Car-Rental.aspx
 
-如果需要租车，建议使用Shift,因为Shit可以在Harbor sports cneter 和 tamimi 取车和换车，非常方便,hanco要到3号门去取。
+如果需要租车，建议使用Shift,因为Shit可以在Harbor sports cneter 和 tamimi 取车和还车，非常方便,hanco要到3号门去取。
 
 Shift
 -------
@@ -18,7 +18,7 @@ Shift
 
 
 租车的好处
-=========
+-------
 
 如果没有孩子或者不打算长留，可以考虑租车而不是买车，环保。假设每周出去一次学校外面，每次往返120SAR，住满5年的话是，120*52*5=31200SAR，现在比较新的二手车都三万SAR以上了，便宜的太老了，可能会
 修车修到你怀疑人生。虽然说买车还可以再卖出去，但是租车可以省很多事。

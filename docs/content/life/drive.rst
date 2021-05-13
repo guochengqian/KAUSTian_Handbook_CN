@@ -7,7 +7,7 @@
 驾校选择
 ------
 
-`吉达北 <https://goo.gl/maps/WSE91CQgcLaeP7Yw7`_ or `拉比格 <https://goo.gl/maps/pT7zQsGsQCD3ZXbY9`_
+`吉达北 <https://goo.gl/maps/WSE91CQgcLaeP7Yw7>`_ or `拉比格 <https://goo.gl/maps/pT7zQsGsQCD3ZXbY9>`_
 
 
 **极度不建议大家前往拉比格驾校，那里有一个很出名的埃及人考官（校长）会故意为难中国人，会在考试当中增大难度、干扰考试、以莫名其妙的理由无端挂科。此人已遭到数十名中国人反馈**

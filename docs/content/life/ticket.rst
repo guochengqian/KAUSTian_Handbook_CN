@@ -18,7 +18,11 @@ https://book.saudia.com/sv-apix/dyn/core/booking/search
 Through SADAD using the reference number: 252007173021 (SADAD Biller Code: 022)
 By visiting any Saudia Airlines sales offices``
 
-收到信息之后就可以登录银行APP付款了，选择bill and payments, 输入biller code 022，确认是沙特航空，之后再输入reference number,就可以付款了。
+收到信息之后就可以登录银行APP SABB付款了，选择bill and payments, 输入biller code 022，确认是沙特航空，之后再输入reference number,就可以付款了。如果是samba，选择SADAD，
+找到saudia，目前samba的SADAD还不支持搜索功能。
 
 付款之前再三确认乘机人信息和航班是否无误，一般会给你三天时间付款，所以不用急着付款。
+
+
+如果需要修改航班，可以先注册会员号，先看看能不能自己修改。如果不能，在技术支持里留言需要修改航班或者拨打热线电话920022222， 按9选择英文，然后分别按照提示输入2 会员号 3 1 2。拨打热线电话是要收费的，而且一般需要等好久好久才有人接。
 

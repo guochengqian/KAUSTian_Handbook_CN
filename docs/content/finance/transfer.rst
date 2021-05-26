@@ -61,7 +61,7 @@ stc pay 的交易成本比直接电汇要低，单次20sar的汇费比银行的4
 
   3. 方法三（推荐）：SADAD，免手续费且即时到账。
     * Stc Pay app -> add money -> SADAD -> 复制sadad number 
-    * 登录网上银行或者打开银行app，SADAD/Bills -> one time payment -> 001 Saudi Telecom Company（注意这里不是STC） -> 输入前一步的 SADAD number（或称为BILL NUMBER） -> 填入付款金额
+    * 登录网上银行或者打开银行app，SADAD/Bills -> one time payment -> 001 Saudi Telecom Company（注意这里不是STC） -> 输入前一步的 SADAD number（或称为BILL NUMBER） -> 填入付款金额。 
     * 每次1万SAR限额，如果限额不够可以分两次转，第二次转可以隔一段时间（如5分钟）或者换一个金额（如相差0.01沙），不然会觉得你是重复操作而拒绝，可自己尝试，若错误，不会产生任何费用收取。
   
   3 国际转账
@@ -73,7 +73,10 @@ stc pay 的交易成本比直接电汇要低，单次20sar的汇费比银行的4
   
 
    3.2. stc pay 转账到国内银行卡
-     * 在STC PAY APP 选择international transfer -> add new receiver -> 填写个人信息（transfer to bank account,然后填写银行信息） ->  **如果是第一次使用，记得填promotion code ISQE4R 或者KIKJSJ喔，会返现。换着用** 
+       **转账到银行卡无需额外再收手续费**
+   
+     * 在STC PAY APP 选择international transfer -> add new receiver -> 填写个人信息（transfer to bank account,然后填写银行信息） ->  **如果是第一次使用，记得填promotion code ISQE4R 或者KIKJSJ喔，会返现。换着用**  
+
 
      1.  如果是中国光大银行 (CEB)，上海浦东发展银行 (SPDB)，中国银行 (BOC)其中之一，你可以
 

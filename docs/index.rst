@@ -29,13 +29,15 @@ KAUST生存手册
 
 
    content/life/drive
+   content/life/rent_car
+   content/life/buy_car
    content/life/shopping
    content/life/sport
    content/life/ticket
    content/life/food
    content/life/music
    content/life/misc
-   content/life/rent_car
+
    
 .. toctree::
    :glob:

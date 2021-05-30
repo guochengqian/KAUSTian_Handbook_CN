@@ -87,9 +87,11 @@ stc pay 的交易成本比直接电汇要低，单次20sar的汇费比银行的4
      2. 如果不是上述银行
       
        * 首次转账收款人会收到短信让打电话去西联汇款或者等待西联汇款打过来，以确认身份信息（一般需要转账人 身份证信息，MTCN码），确认之后就可以收款啦！如果收款人在国外，打给西联汇款前面加0086。后续转账就直接到账就不需要打电话了。
+       
+       * 查询转账进度可以到 `西联汇款查询 <https://www.westernunion.com/global-service/track-transfer?WULanguage=zh&WUCountry=CN>`_, 需要MTCN。 从第二次转账开始，秒到账 （1分钟以内）
 
 
-5. 查询转账进度可以到 `西联汇款查询 <https://www.westernunion.com/global-service/track-transfer?WULanguage=zh&WUCountry=CN>`_, 需要MTCN。 从第二次转账开始，STC PAY秒到账 （1分钟以内）
+
 
 NOTE：
 

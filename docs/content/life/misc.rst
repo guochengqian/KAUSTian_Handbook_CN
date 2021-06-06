@@ -13,4 +13,8 @@
 前去理发前需要先预约，可打电话至 +966128024061，但更建议在 `网上预约 <http://www.envisiongo.com/a/asfourbarbershop-kaust>`_ 。预定时间前约半小时会理发店打电话确认。
 
 
+入校二维码
+------
+
+进入学校（开车，或者从 Visit Center 做校巴进入），会被要求出示二维码。可以从 `这个链接 <https://vms.kaust.edu.sa/apps/GAPlatform/>`_ 生成，填入学号即可。
 

@@ -35,7 +35,8 @@
 1. KAUST 羽毛球
 2. KAUST 网球
 3. KAUST 乒乓球
-4. KAUST 欢乐桌游社交群
+4. KAUST 高尔夫球
+5. KAUST 欢乐桌游社交群
 
 如需帮忙拉入以上微信群，欢迎添加泓先同学微信
 微信号：hongxian1256

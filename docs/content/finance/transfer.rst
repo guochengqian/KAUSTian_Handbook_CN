@@ -61,10 +61,9 @@ stc pay 的交易成本比直接电汇要低，单次20sar的汇费比银行的4
 
   3. 方法三（推荐）：SADAD，免手续费且即时到账。
     * Stc Pay app -> add money -> SADAD -> 复制sadad number 
-    * 登录网上银行或者打开银行app，SADAD/Bills -> one time payment -> 207 STC Pay (SABB可以直接搜索207,samba需要自己找) -> 输入前一步的 SADAD number（或称为BILL NUMBER） -> 填入付款金额。 
+    * 登录网上银行或者打开银行app，SADAD/Bills -> one time payment -> 207 STC Pay (SABB可以直接搜索207,samba需要自己找) -> 选择prepaid,输入前一步的 SADAD number（或称为BILL NUMBER） -> 填入付款金额。 
     * 每次1万SAR限额，如果限额不够可以分两次转，第二次转可以隔一段时间（如5分钟）或者换一个金额（如相差0.01沙），不然会觉得你是重复操作而拒绝，可自己尝试，若错误，不会产生任何费用收取。
     
-    Note: 近期STC 突然换了biller name 从001到207，估计还在测试阶段，如果这个方法不行，可以尝试方法二。
   
   3 国际转账
   

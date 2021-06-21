@@ -59,8 +59,7 @@ To Pay from Your bank account:
 * Original Iqama， 正反两页，复印1 张
 * Original driving license (if applicable)， 三页，复印1 张
 * 4 Personal Photos，在GA(building 4) 前面免费机器拍照打印
-* SADAD 缴费凭证/邮件
-* 网上预约的凭证/邮件（吉达北不需要）
+* SADAD 缴费凭证/邮件打印
 * 大约150sar 现金（Medical test + 办公人员各种理由收你点钱）
 
 
@@ -72,7 +71,7 @@ To Pay from Your bank account:
 **吉达北考场经验** ：
 
 1. 进门后按照要求前往柜台办理手续，手续费10sar。如果要打印你可以跟他们说你已经打印好了，否则一张纸10sar；他们会问你电话号码和地址，用来填表。
-2. 目前吉达北考场内不能做 Medical Test，需要出去找医院做。Google maps 搜索 hospital 或者 medical，最近的就十分钟车程；内容是身高体重、视力、血型（温柔的沙特小姐姐给你抽血，不亏的）。
+2. 目前吉达北考场内不能做 Medical Test，需要出去找医院做，最近的医院是 `这家 <https://www.google.com/maps/place/Abdul+Rahman+Al-Sahli+General+Medical+Complex/@21.6212398,39.1895345,13.9z/data=!4m5!3m4!1s0x15c3d724fa3b20df:0x2c06bb3fe1f0576e!8m2!3d21.63013!4d39.187728>`_ ，就十分钟车程，内容是身高体重、视力、血型。
 3. 拿着填好的表和 Medical 前往10 号窗口的警察那里确认考试，盖 Automatic 自动挡的章。  
 4. 去车道区参加考试。先在蓝色房子里候考，此时请观察前面的人考试内容，考试内容不是固定的，但是很简单，一般是开一个来回，或者绕一个8 字弯（很宽），没听说过考倒车入库、侧方位停车等。
 5. 考试中途，听清楚考官说什么，一般考官只会几个英文单词比如straight，back, left, right 等等，他让你干啥就干啥，尽量放慢车速。

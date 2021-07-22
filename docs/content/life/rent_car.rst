@@ -3,6 +3,7 @@
 
 租车
 ======
+（写在前面：请注意，不像在我们国内以及UK US Germany等，在沙特 汽车不能随意换驾驶员开，在shift租车的时候，如果需要两个人开车或者说轮流驾驶，那么需要"Add another driver"）
 
 这是学校关于出租车，租车的所有信息，可以找到价目表
 https://communitylife.kaust.edu.sa/Services/Pages/Taxi-Car-Rental.aspx

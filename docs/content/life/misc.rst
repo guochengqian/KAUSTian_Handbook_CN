@@ -1,6 +1,6 @@
 :github_url: https://github.com/guochengqian/KAUSTian_Handbook_CN
 
-杂项
+其他
 ======
 
 理发
@@ -17,4 +17,12 @@
 ------
 
 进入学校（开车，或者从 Visit Center 做校巴进入），会被要求出示二维码。可以从 `这个链接 <https://vms.kaust.edu.sa/apps/GAPlatform/>`_ 生成，填入学号即可。
+
+
+废物回收
+-------
+
+不需要的瓶子或易拉罐放到饭堂的回收箱里换积分，凭积分可到回收中心换取礼品。
+详情查看  `Turn recycling into rewards <https://communitylife.kaust.edu.sa/News/Pages/Page-2020-12-28_RecycleRewards.aspx>`_。 
+
 

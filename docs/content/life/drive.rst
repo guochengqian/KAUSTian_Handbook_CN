@@ -2,6 +2,8 @@
 
 驾照
 ========
+（写在前面：请注意，不像在我们国内以及UK US Germany等，在沙特 汽车不能随意换驾驶员开，如果要把车借给别人或者借别人的车开，需要申请变更authorization, 请参考`_此链接 <https://lifeinsaudiarabia.net/authorize-vehicle-absher-saudi-arabia/>`_）
+
 
 驾校可选 `吉达北 <https://goo.gl/maps/WSE91CQgcLaeP7Yw7>`_ or `拉比格 <https://goo.gl/maps/pT7zQsGsQCD3ZXbY9>`_
 

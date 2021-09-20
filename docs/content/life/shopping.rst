@@ -34,6 +34,14 @@ Noon
 ^^^^^^^^^^^
 `Noon <https://www.noon.com/saudi-en/>`_：沙特本地的网购平台，大概可以类比于淘宝。注册账号需要沙特手机号。物品可以送到校内快递柜。（位于 Discovery Square，货物到了之后会发邮件/短信给取件码，24h开放）价格上部分日用品略比校内大塔超市便宜。注意网页上标价都未包含增值税，在 checkout 的时候会被加 15%。购买标有 express 的商品可免运费，发货也较快。
 
+* 校内快递柜地址：Thuwal, KSA, KAUST, Discovery Square Mailroom, Jeddah, Saudi Arabia
+* 校内收发室地址：DHL Mail Room, Discovery Square, KAUST, 8462+QG - Jiddah - Makkah Province, Towal, Saudi Arabia
+（快递柜可以直接在地图上点，收发室需要手动把地图上坐标移动到 Discovery Square 附近，具体位置位于小塔靠近清真寺方向）
+
+大部分在 Noon 上购买的商品都可以直接送到快递柜，如果商品提示「Can not be sent to a locker」，则可以改到收发室。收发室上班时间为 9am ~ 6pm，取件前需要准备快递编号（可以从订单邮件或者短信找到）。
+
+在 Noon 上使用 SABB 发行的 mada 卡可以免运费（一般为 12 SAR）。
+
 Amazon.sa
 ^^^^^^^^^^^
 我觉得亚马逊上的东西都比noon要便宜啊，比如电子产品。我的手机耳机都在亚马逊买的，日本韩国的牌子比国内要便宜，国内的牌子比国内贵。

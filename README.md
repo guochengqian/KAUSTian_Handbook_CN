@@ -40,9 +40,11 @@
 
 2. 修改你fork的repo。如何修改？例如想添加驾校信息，可以编辑'docs/content/life/drive.rst'；想添加全新的小节，例如在生活篇中加入 '美食'节（假如没有这个小节），可以在'docs/content/life'中新建'food.rst'文件，并添加相应内容，然后在`docs/index.rst`文件相应位置加入新的一行`content/life/food`。可参考'drive.rst'进行编辑。  
 
-3. 在本仓库中请求一个[pull request](https://github.com/guochengqian/KAUSTian_Handbook_CN/pulls). 点击new pull request, 点击compare across fork, pull request的左侧选中本仓库，右侧选中你的仓库。 确认后提交request. 
+3. 本机测试: 确保安装了sphinx: `pip install sphinx`, 进入docs文件夹`cd docs`, 然后 `make html`，确保没有error信息。sphinx是网页渲染工具，[sphinx手册](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html). 
 
-4. 审核通过后，您的内容将出现在本手册中。
+4. 在本仓库中请求一个[pull request](https://github.com/guochengqian/KAUSTian_Handbook_CN/pulls). 点击new pull request, 点击compare across fork, pull request的左侧选中本仓库，右侧选中你的仓库。 确认后提交request. 
+
+5. 审核通过后，您的内容将出现在本手册中。
 
 
 NOTE: 如果需要加入图片，请参考docs/content/travel/saudi.rst。并且把图片上传到docs/_static/image这个文件夹

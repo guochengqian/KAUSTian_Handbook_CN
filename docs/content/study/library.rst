@@ -8,6 +8,7 @@
 
 小组学习室分布图
 ^^^^^^^^^^^^^^^^^
+
 标黄为 多人间学习室分布：
 
 .. image:: ../../_static/image/study/library/lib_study_room.png

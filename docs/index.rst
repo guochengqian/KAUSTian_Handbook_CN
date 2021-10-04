@@ -12,21 +12,20 @@ KAUST生存手册
 《KAUST生存手册》诞生于2021年1月26日。本手册旨在集中与分享KAUST生活、学习及娱乐中的诸多感悟、经验和技巧。《KAUST生存手册》支持网页在线预览。 我们希望本手册可以在我们和社区的共同维护下一直存活下去，并能给KAUST入学新生、在读学生、职员、家属以及校友带来帮助。 感谢参与本手册编辑的作者们！ 同时期待更多作者们的加入！ （点击右上角Edit on GitHub轻松成为作者）
 
 
+目录
+-----------
+
 .. toctree::
-   :glob:
-   :maxdepth: 1
+   :maxdepth: 1   
    :caption: 基础必备篇
 
    content/basic/list
    content/basic/group_list
    content/basic/bonus-getting
 
-
 .. toctree::
-   :glob:
    :maxdepth: 1
    :caption: 生活篇
-
 
    content/life/drive
    content/life/rent_car
@@ -38,22 +37,25 @@ KAUST生存手册
    content/life/music
    content/life/misc
 
-   
 .. toctree::
-   :glob:
+   :maxdepth: 1
+   :caption: 学习篇
+
+   content/study/library
+  
+.. toctree::
    :maxdepth: 1
    :caption: 旅游篇
 
    content/travel/saudi
 
-
 .. toctree::
-   :glob:
    :maxdepth: 1
    :caption: 财务篇
 
    content/finance/transfer
    content/finance/investment
    content/finance/open_account
+
 
 

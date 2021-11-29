@@ -48,6 +48,7 @@ KAUST生存手册
    :caption: 旅游篇
 
    content/travel/saudi
+   content/travel/backhome
 
 .. toctree::
    :maxdepth: 1

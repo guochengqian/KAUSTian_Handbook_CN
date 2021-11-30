@@ -37,26 +37,31 @@ KAUST生存手册
    content/life/music
    content/life/misc
 
-.. toctree::
-   :maxdepth: 1
-   :caption: 学习篇
 
-   content/study/library
   
 .. toctree::
    :maxdepth: 1
    :caption: 旅游篇
 
-   content/travel/saudi
    content/travel/backhome
+   content/travel/saudi
+   
 
 .. toctree::
    :maxdepth: 1
    :caption: 财务篇
-
+   
    content/finance/transfer
    content/finance/investment
    content/finance/open_account
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: 学习篇
+
+   content/study/library
+
+
 
 
 

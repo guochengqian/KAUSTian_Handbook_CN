@@ -6,7 +6,7 @@
 
 
 推荐软件：
------
+--------
 
 Facebook 群（`KAUST - Cars <https://www.facebook.com/groups/kaustcars/>`_, 
 `KAUST Used Cars <https://www.facebook.com/groups/kaustusedcars/>`_ ），偏贵且不一定是校内人士卖车；
@@ -22,7 +22,7 @@ Facebook 群（`KAUST - Cars <https://www.facebook.com/groups/kaustcars/>`_,
 
 
 买车流程：
------
+--------
 
 1. **选好车，联系好卖家，前往看车。** 本地人容易放鸽子，如果去吉达看车，一次多看几辆。
 
@@ -34,7 +34,7 @@ Facebook 群（`KAUST - Cars <https://www.facebook.com/groups/kaustcars/>`_,
 
 
 选车经验：
------
+--------
 
 1. opensooq, haraj, expatriates 车辆非常多，比较容易淘到好车，同时也可以满足花小钱开豪车的愿望；
 2. 问清楚磕碰、事故、空调、车辆文件、车检(fahas)、轮胎、变速箱等等细节，多要一些照片，可以淘汰一些不值得去试的车；
@@ -45,7 +45,7 @@ Facebook 群（`KAUST - Cars <https://www.facebook.com/groups/kaustcars/>`_,
 
 
 漫谈价格：
------
+--------
 
 1. 日系车在本地很畅销，保值率也很高，德系车和美系车相对更好还价；
 2. 一般1.5~3.5w 能买到车况很不错的车，不少人3~4w 买到十年左右车况不错的的BBA；

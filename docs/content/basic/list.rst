@@ -27,7 +27,7 @@
 * 肠胃药 ``防止水土不服``
 * 无比滴 ``止痒，其他止痒的也行``
 * 红花油，风油精，金银花 ``反正就是万金油吧，哪里不舒服搽哪里``
-* 电蚊香 ``蚊虫挺多的``。 ``（补充：住在Harbor的话，目前没有见过蚊虫。不过听说Island 和 Garden那边蚊虫较多。学校的pet control会定期给各家后院提供免费的除蚊服务 ）``
+* 电蚊香 ``蚊虫挺多的``。 ``（补充：住在Harbor的话，目前没有见过蚊虫。不过听说Island 和 Garden那边蚊虫较多。学校的`pest control<https://communitylife.kaust.edu.sa/services/housing-guest-services/service-partners/pest-control-waste-management>`_ 会定期给各家后院提供免费的除蚊服务 ）``
 * 电磁炉 ``非必需品，有个电磁炉可以方便聚在一起吃火锅。不怕麻烦的话可以从国内带个来，或者来到KAUST之后在物品交易群里入手一个也OK。``
 * 豆浆机 ``非必需品``
 * 衣架 ``刚来要买衣架只能去超市，有点贵，如果不嫌重可以带几个过来``

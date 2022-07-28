@@ -2,26 +2,28 @@
 
 驾照
 ========
-（写在前面：请注意，不像在我们国内以及UK US Germany等，在沙特 汽车不能随意换驾驶员开，如果要把车借给别人或者借别人的车开，需要申请变更authorization, 请参考`_此链接 <https://lifeinsaudiarabia.net/authorize-vehicle-absher-saudi-arabia/>`_）
+（写在前面：请注意，不像在我们国内以及UK US Germany等，在沙特 汽车不能随意换驾驶员开，如果要把车借给别人或者借别人的车开，需要申请变更authorization, 请参考 `链接 <https://lifeinsaudiarabia.net/authorize-vehicle-absher-saudi-arabia/>`_。
 
 
-驾校可选 `吉达北 <https://goo.gl/maps/WSE91CQgcLaeP7Yw7>`_ or `拉比格 <https://goo.gl/maps/pT7zQsGsQCD3ZXbY9>`_
+驾校可选 `吉达Dallah Driving School（推荐） <https://goo.gl/maps/9pegBroT5osFai1BA>`_ or `吉达北 <https://goo.gl/maps/WSE91CQgcLaeP7Yw7>`_ or `拉比格 <https://goo.gl/maps/pT7zQsGsQCD3ZXbY9>`_
 
+**建议前往吉达Dallah Driving School，中国驾照可以直接换沙特驾照，不需要考试**
 
-**极度不建议大家前往拉比格驾校，那里有一个很出名的埃及人考官（校长）会故意为难中国人，会在考试当中增大难度、干扰考试、以莫名其妙的理由无端挂科。此人已遭到数十名中国人反馈**
+- **吉达北不确定是否仍然营业**
 
-**根据大家的经验，建议大家前往吉达北驾校参加考试，进入考场、填表到拿到驾照，全程一小时左右。**
+- **极度不建议大家前往拉比格驾校，那里有一个很出名的埃及人考官（校长）会故意为难中国人，会在考试当中增大难度、干扰考试、以莫名其妙的理由无端挂科。此人已遭到数十名中国人反馈**
 
 
 一：国内驾照换沙特驾照 (男性)
----------------------------
+-----------------------------------------
 
-1.1 网上报名
-^^^^^^^^^^^^^^^^
-首先到 `VEHICLE DRIVING LICENSE ISSUE (MALE) <https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>`_
-Motor vehicle service ->Driving license issue -> 填写所有信息， 注意License Number 填身份证号！
+1.1 KAUST Portal填写信息
+^^^^^^^^^^^^^^^^^^^^^^^^
+具体流程参考 `VEHICLE DRIVING LICENSE ISSUE (MALE) <https://governmentaffairs.kaust.edu.sa/ga/service-details/government-affair/motor-vehicle-services/vehicle-driving-license-issue>`_。
 
-然后你会获得三张表格（若失败则换台电脑/重新申请一次），全部彩色印刷，带Government Affair 蓝色鲜章的那个表1请仔细核对，表1，2，3都不需要填写。如果表1的 Licence number 和驾照原件的时间和身份证号不符会被退回：
+（注意：1.License Number填中国身份证号；2.现在已经不需要在Absher上预约了）
+
+你会获得三张表格（若失败则换台电脑，或者实验室电脑，重新申请一次），全部彩色印刷，带Government Affair 蓝色鲜章的那个表1请仔细核对，表1，2，3都不需要填写。如果表1的 Licence number 和驾照原件的时间和身份证号不符会被退回：
 
 .. image:: drive_paperwork.png
 
@@ -45,30 +47,33 @@ To Pay from Your bank account:
 
 6. Finally approve the payment
 
-
-1.3 预约考试
+1.3 体检
 ^^^^^^^^^^^^^^^^
 
-吉达驾校预约： 不需要预约
+KAUST Health体检：每周二上午11点到下午1点，会有外面的公司来KAUST Health做driving license的体检，是简单的测视力和验血型，一个人200沙。
 
-拉比格驾校预约： 访问网址: https://sd-driveschool.com （这个网址校园网无法访问，请使用4G/VPN 并预约时间。）拉比格驾校电话 +966 567007707 可以打电话询问；如果不放心也可通过Whatsapp 和他联系 号码同样是 +966 567007707； 也可谷歌搜索 Driving School in Rabigh 获取地址以及电话信息。
-
+此外，也可在驾校指定的医院进行体检。
 
 1.4 总共需要如下材料：
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * 3 张表格彩印
 * Original Iqama， 正反两页，复印1 张
 * Original driving license (if applicable)， 三页，复印1 张
-* 4 Personal Photos，在GA(building 4) 前面免费机器拍照打印
+* 4 Personal Photos，在GA(building 4)前面免费机器拍照打印，或者在Library负1层直接打印照片。
 * SADAD 缴费凭证/邮件打印
 * 大约150sar 现金（Medical test + 办公人员各种理由收你点钱）
 
+1.5 去驾校换驾照
+^^^^^^^^^^^^^^^^^^^^^
 
-1.5 参加考试
-^^^^^^^^^^^^^^^^
+**1.在吉达Dallah Driving School换驾照**
 
-完成上述步骤，带齐材料， 找出租司机/朋友开车送去驾校（**周末不开门**）。（吉达北司机一般来回250sar，拉比格200sar。）
+**吉达Dallah驾校不需要预约，中国驾照可直接换沙特驾照**，材料费15沙，制卡时间约15min，当场拿。
+
+**2.在吉达北考试**
+
+吉达北驾校不需要预约，但目前不确定是否依然营业。
 
 **吉达北考场经验** ：
 
@@ -82,8 +87,15 @@ To Pay from Your bank account:
 
 - 吉达北不需要预约，一次考不过下一次只用再交 10sar 填表费，Medical 可以多次使用，很省钱；
 - 吉达北流程很规范，工作人员懂英语，对中国人很友好，
-  
+
 .. image:: jeddah_map.jpg
+
+**3.在拉比格驾校考试**
+
+(1).预约考试： 访问网址: https://sd-driveschool.com （这个网址校园网无法访问，请使用4G/VPN 并预约时间。）拉比格驾校电话 +966 567007707 可以打电话询问；如果不放心也可通过Whatsapp 和他联系 号码同样是 +966 567007707； 也可谷歌搜索 Driving School in Rabigh 获取地址以及电话信息。
+
+
+(2).参加考试：带齐材料， 找出租司机/朋友开车送去驾校（**周末不开门**）。（吉达北司机一般来回250sar，拉比格200sar。）
 
 **拉比格考场经验（再一次提醒大家不要去拉比格驾校）**：
 
@@ -141,7 +153,7 @@ To Pay from Your bank account:
 
 
 四：沙特驾照换国内驾照
----------
+-----------------------------
 
 链接： https://zhuanlan.zhihu.com/p/67267383
 

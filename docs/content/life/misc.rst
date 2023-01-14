@@ -16,14 +16,23 @@
 
 
 入校二维码
-------
+--------------
 
 进入学校（开车，或者从 Visit Center 做校巴进入），会被要求出示二维码。可以从 `这个链接 <https://vms.kaust.edu.sa/apps/GAPlatform/>`_ 生成，填入学号即可。
 
 
 校内电影院
-------
+------------
 
 可以在 `Discovery Cinema <https://communitylife.kaust.edu.sa/Services/Recreation-Facilities/Cinema-Theatre/Pages/default.aspx>` 查看正在上映的电影。
 
 需注意，只能购买当天场次的电影票，价格一般为 10 SAR。其他注意事项可以在上述网页中找到。
+
+
+出校门
+------------
+仅依靠步行/自行车/摩托车无法出校门
+
+校内有免费大巴可以去图瓦和吉达等地，需提前预约，且往返+停留耗时约3-4小时。
+
+校内一辆自行车价格约为1000SAR

@@ -36,6 +36,7 @@ KAUST生存手册
    content/life/food
    content/life/music
    content/life/misc
+   content/life/network
 
 
   

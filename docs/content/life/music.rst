@@ -28,5 +28,12 @@ Firefox浏览器
 在附加组件里添加uBlock Origin 和 Video Background Play Fix就可以啦。还有可以添加YouTube High Definition获得高清视频
 
 使用Telegram听歌并且下载歌曲
---------------------
+--------------------------------------
 添加好友@ChinoNyanBot, 发送消息如/netease 歌曲名 就可以获得歌曲。支持多个国内音乐软件。
+
+
+使用UnblockneteaseMusic 绕开地域限制
+---------------------------------------------
+
+使用 `UnblockNeteaseMusic <https://github.com/pan93412/UnblockNeteaseMusic/>`_ 
+可绕过地区限制以及会员限制，并可同步QQ音乐，Youtube音源，推荐使用docker部署在本机或服务器上。

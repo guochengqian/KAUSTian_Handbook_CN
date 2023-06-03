@@ -126,11 +126,35 @@ A股0.01%至万0.025%佣金（双边收费），沪市收取每股0.06%的过户
 
 
 投资沙特
---------------
+-----------
+
+银行理财
+^^^^^^^^^
+SNB和SAB都可以购买相应银行发行的个人理财产品，门槛较高，年化收益率还可以。
+
+SNB的产品介绍：https://www.alahli.com/en-us/personal-banking/islamic-Finance/Pages/Disclosure-of-APR-on-Financing.aspx
+
+SAB的产品介绍：https://www.sab.com/en/financing/personal-finance/
+
+绿色账户
+^^^^^^^^^
+SAB可以开设门槛为25,000SAR的绿色账户进行短期投资
+https://www.sab.com/en/everyday-banking/accounts/green-deposits/
+
+SNB的绿色账户门槛为100,000SAR。
+https://www.alahli.com/en-us/investments/pages/khayrat-alahli.aspx
+
+沙特证券交易所开户
+^^^^^^^^^
+（笔者还没有探索，这里先把开户链接放出来,也可以从各自银行官网找到相应投资账户的入口，如果有小伙伴走完了流程可以在这里继续更新）：
+
+SAB: https://www.sabinvest.com/ebroker/
+
+SNB Capital: https://www.alahlitadawul.com/GTrade/trading?2f42fee%3A1887e0609db%3A-47f7
+
+企业投资
+^^^^^^^^^
 中国商务部沙特投资指南：`中国官方投资指南pdf <http://www.mofcom.gov.cn/dl/gbdqzn/upload/shatealabo.pdf>`_. 
-
-
-沙特没有银行利息，也买不了货币基金，每次攒钱转账都没有任何收益。如果有人知道怎么搞的欢迎更新或者评论。
 
 投资比特币
 --------------

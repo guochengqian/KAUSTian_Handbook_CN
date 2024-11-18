@@ -35,5 +35,5 @@ Firefox浏览器
 使用UnblockneteaseMusic 绕开地域限制
 ---------------------------------------------
 
-使用 `UnblockNeteaseMusic <https://github.com/pan93412/UnblockNeteaseMusic/>`_ 
+使用 `UnblockNeteaseMusic <https://github.com/UnblockNeteaseMusic/server/>`_ 
 可绕过地区限制以及会员限制，并可同步QQ音乐，Youtube音源，推荐使用docker部署在本机或服务器上。

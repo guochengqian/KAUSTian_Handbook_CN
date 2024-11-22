@@ -59,9 +59,7 @@ NOTE: 如果需要加入图片，请参考docs/content/travel/saudi.rst。并且
 
 
 ## 联系管理员
-如您有《KAUST生存手册》的相关问题，可以咨询管理员：  
-* [Guocheng Qian 钱国成](https://github.com/guochengqian)
-* [Jayden](https://github.com/ijayden-lung)
+如您有《KAUST生存手册》的相关问题，可以提issue.
 
 以上就是全部啦，谢谢大家的贡献！！
 

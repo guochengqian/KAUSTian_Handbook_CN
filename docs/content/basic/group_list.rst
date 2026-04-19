@@ -7,6 +7,10 @@
 推荐的微信群
 =============
 
+新创立了一个非官方非盈利的 Redsea BBS 用于代替日益繁杂的群聊
+网址是 www.redseabbs.com `红海论坛 <www.redseabbs.com>`_
+为了防止机器人，仅限KAUST邮箱注册
+
 通用
 ------
 
